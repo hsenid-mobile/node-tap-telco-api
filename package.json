@@ -1,0 +1,39 @@
+{
+  "name": "tap-telco-api",
+  "version": "1.0.0",
+  "description": "hSenid Mobile Solutions TAP telco api, module for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh make.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isuruanu/node-tap-telco-api.git"
+  },
+  "keywords": [
+    "telco",
+    "hms",
+    "node",
+    "api",
+    "sms",
+    "ussd",
+    "cas",
+    "in-app",
+    "subscription",
+    "lbs",
+    "ivr",
+    "webrtc"
+  ],
+  "author": "Isuru Anuranga <isuru.develop@gmail.com> (http://playfulcleverness.blogspot.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isuruanu/node-tap-telco-api/issues"
+  },
+  "dependencies" : {
+    "mocha" : "2.2.1",
+    "chai" : "2.1.2",
+    "tcomb" : "1.0.0",
+    "tcomb-validation":"1.0.1"
+  },
+  "homepage": "https://github.com/isuruanu/node-tap-telco-api"
+}
