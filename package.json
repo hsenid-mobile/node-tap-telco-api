@@ -1,8 +1,8 @@
 {
   "name": "tap-telco-api",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "hSenid Mobile Solutions TAP telco api, module for NodeJS.",
-  "main": "index.js",
+  "main": "lib/tap.js",
   "scripts": {
     "test": "sh make.sh"
   },
@@ -34,7 +34,7 @@
     "chai" : "2.1.2",
     "tcomb" : "1.0.0",
     "tcomb-validation":"1.0.1",
-    "express":"4.12.3"
+    "node-cache":"1.1.0"
   },
   "homepage": "https://github.com/isuruanu/node-tap-telco-api"
 }

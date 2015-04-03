@@ -1,5 +1,4 @@
-var smsDomain = require("../index.js");
-/*var expect = require('chai').expect;*/
+var smsDomain = require("../lib/tap.js").sms;
 var assert = require('chai').assert;
 var t = require('tcomb-validation');
 
