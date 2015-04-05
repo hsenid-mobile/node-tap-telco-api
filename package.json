@@ -1,6 +1,6 @@
 {
   "name": "tap-telco-api",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "hSenid Mobile Solutions TAP telco api, module for NodeJS.",
   "main": "lib/tap.js",
   "scripts": {
